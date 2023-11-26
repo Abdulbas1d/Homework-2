@@ -36,3 +36,14 @@
 // } else {
 //   console.log("Toq son");
 // };
+
+
+// 4-Misol
+
+// let son = +prompt("Son kiriting");
+
+// if (son / 5 == 0) {
+//   console.log("5 ga karrali");
+// } else {
+//   console.log("5 ga karrali emas");
+// };
