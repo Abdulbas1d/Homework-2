@@ -59,3 +59,37 @@
 // };
 
 
+// 6-Misol
+
+// let son = +prompt("Son kiriting 1 xonali ekanligini aniqlab beraman");
+
+// if (son > 11) {
+//   console.log(`Bu bir xonali son emas: ${son}`);
+// } else {
+//   console.log(`Bu bir xonali son: ${son}`);
+// };
+
+
+// 7-Misol
+
+// let son = +prompt(
+//   "Son kiriting bir xonali sondan katta yoki kichikligini aniqlab beraman"
+// );
+// if (son > 9) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// };
+
+
+// 8-Misol
+
+// let son = +prompt(
+//   "Son kiriting juft yoki toq ekanligini aniqlab ekranga chiqarib beraman"
+// );
+// son = son % 10;
+// if (son % 2 == 0) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// };
