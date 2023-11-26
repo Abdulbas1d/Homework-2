@@ -93,3 +93,38 @@
 // } else {
 //   console.log(false);
 // };
+
+
+// 9-Misol
+
+// let son = +prompt("Son kiriting");
+
+// if (son < 1000) {
+//   son = son / 100;
+//   console.log(son);
+// };
+
+
+// 10-Misol
+
+// let m = +prompt("Son kiriting");
+// let n;
+// let o;
+// n = m / 100;
+// n = (m % 100) / 10;
+// m = m % 10;
+
+// if (m > n) {
+//   if (m > o) {
+//     console.log(m);
+//   } else {
+//     console.log(o);
+//   }
+// } else {
+//   console.log(n);
+//   if (n > o) {
+//     console.log(n);
+//   } else {
+//     console.log(o);
+//   }
+// }
