@@ -47,3 +47,15 @@
 // } else {
 //   console.log("5 ga karrali emas");
 // };
+
+
+// 5-Misol
+
+// let son = +prompt("son kiriting 2 xonali ekanligini aniqlab beraman");
+// if (son > 9) {
+//   console.log(`Bu 2 xonali son: ${son}`);
+// } else {
+//   console.log(`Bu 2 xonali son emas: ${son}`);
+// };
+
+
